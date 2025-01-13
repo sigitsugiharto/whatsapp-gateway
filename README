@@ -1,1 +1,6 @@
 Aplikasi WhatsApp Gateway di Windows
+
+Software yang digunakan:
+1. Nodejs versi 20.18.1 (LTS) (https://nodejs.org/en/download)
+2. WhatssAppWeb Js (https://wwebjs.dev/)
+3. XAMPP (https://www.apachefriends.org/download.html)
